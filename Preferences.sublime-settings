@@ -1,0 +1,26 @@
+{
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		"tmp/cache",
+		"log"
+	],
+	"font_face": "Input",
+	"font_options":
+	[
+		"bold"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}
