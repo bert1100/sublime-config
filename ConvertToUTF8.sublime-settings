@@ -1,0 +1,29 @@
+{
+
+
+  // Maximum size for encoding cache, 0 means no cache
+  "max_cache_size" : 0,
+
+  // Maximum lines to detect, 0 means unlimited
+  "max_detect_lines" : 0,
+
+  // Convert when previewing file: true or false
+  "preview_action" : true,
+
+  // Encoding for new file, empty means using sublime text's "default_encoding" setting
+  "default_encoding_on_create" : "",
+
+  // Set this option to true will cause Sublime Text reload the saved file when losing focus
+  "lazy_reload": false,
+
+  // The minimum confidence rate between 0.0 and 1.0
+  "confidence": 0.95,
+
+  // Convert in Find Results view
+  "convert_on_find": false,
+
+  // Convert when loading/saving a file
+  "convert_on_load" : false,
+  "convert_on_save" : true
+
+}
