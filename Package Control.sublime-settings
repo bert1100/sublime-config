@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"ApacheConf.tmLanguage",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
