@@ -8,10 +8,10 @@
   "max_detect_lines" : 0,
 
   // Convert when previewing file: true or false
-  "preview_action" : true,
+  "preview_action" : false,
 
   // Encoding for new file, empty means using sublime text's "default_encoding" setting
-  "default_encoding_on_create" : "",
+  "default_encoding_on_create" : "UTF-8",
 
   // Set this option to true will cause Sublime Text reload the saved file when losing focus
   "lazy_reload": false,
@@ -23,7 +23,7 @@
   "convert_on_find": false,
 
   // Convert when loading/saving a file
-  "convert_on_load" : false,
-  "convert_on_save" : true
+  "convert_on_load" : true,
+  "convert_on_save" : false
 
 }

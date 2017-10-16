@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"ConvertToUTF8",
 		"DocBlockr",
@@ -12,7 +13,12 @@
 		"Git",
 		"Gitignore",
 		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"JSTL autocomplete",
+		"JSTL syntax",
+		"LESS",
 		"MarkdownLight",
+		"nginx",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Sass",
