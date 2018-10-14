@@ -1,5 +1,8 @@
 {
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"draw_minimap_border": true,
 	"expand_tabs_on_save": true,
 	"folder_exclude_patterns":
 	[
@@ -8,10 +11,11 @@
 		"node_modules",
 		"tmp/cache",
 		".vagrant",
+		".cache",
 		".svn"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -21,7 +25,8 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"show_encoding": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"translate_tabs_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "true"
 }
